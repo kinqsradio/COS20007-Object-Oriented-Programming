@@ -1,0 +1,14 @@
+/Users/anhdang/Desktop/Average/Average/Average/bin/Debug/netcoreapp3.1/Average
+/Users/anhdang/Desktop/Average/Average/Average/bin/Debug/netcoreapp3.1/Average.deps.json
+/Users/anhdang/Desktop/Average/Average/Average/bin/Debug/netcoreapp3.1/Average.runtimeconfig.json
+/Users/anhdang/Desktop/Average/Average/Average/bin/Debug/netcoreapp3.1/Average.runtimeconfig.dev.json
+/Users/anhdang/Desktop/Average/Average/Average/bin/Debug/netcoreapp3.1/Average.dll
+/Users/anhdang/Desktop/Average/Average/Average/bin/Debug/netcoreapp3.1/Average.pdb
+/Users/anhdang/Desktop/Average/Average/Average/obj/Debug/netcoreapp3.1/Average.csproj.AssemblyReference.cache
+/Users/anhdang/Desktop/Average/Average/Average/obj/Debug/netcoreapp3.1/Average.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anhdang/Desktop/Average/Average/Average/obj/Debug/netcoreapp3.1/Average.AssemblyInfoInputs.cache
+/Users/anhdang/Desktop/Average/Average/Average/obj/Debug/netcoreapp3.1/Average.AssemblyInfo.cs
+/Users/anhdang/Desktop/Average/Average/Average/obj/Debug/netcoreapp3.1/Average.csproj.CoreCompileInputs.cache
+/Users/anhdang/Desktop/Average/Average/Average/obj/Debug/netcoreapp3.1/Average.dll
+/Users/anhdang/Desktop/Average/Average/Average/obj/Debug/netcoreapp3.1/Average.pdb
+/Users/anhdang/Desktop/Average/Average/Average/obj/Debug/netcoreapp3.1/Average.genruntimeconfig.cache

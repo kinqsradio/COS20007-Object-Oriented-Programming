@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "N7jazfV/Q942DJE8yVS7GJNMg8hml09aTZ+dZwEqnKGb529PN71+gzACRyRq0EUuwxiMEtYKt+bJXX50KuQhFQ==",
+  "success": true,
+  "projectFilePath": "/Users/anhdang/Desktop/Average/Average/Average/Average.csproj",
+  "expectedPackageFiles": [
+    "/Users/anhdang/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/anhdang/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.27/microsoft.netcore.app.host.osx-x64.3.1.27.nupkg.sha512",
+    "/Users/anhdang/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
