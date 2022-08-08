@@ -5,10 +5,7 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Clock/Clock.cs">
-    <Files>
-      <File FileName="Clock/Clock.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -25,14 +22,7 @@
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="Clock" expanded="True">
-            <Node name="ClockTest" expanded="True">
-              <Node name="Clock" expanded="True">
-                <Node name="ClockTest" expanded="True" />
-                <Node name="TestCounter" expanded="True" selected="True" />
-              </Node>
-            </Node>
-          </Node>
+          <Node name="Clock" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
