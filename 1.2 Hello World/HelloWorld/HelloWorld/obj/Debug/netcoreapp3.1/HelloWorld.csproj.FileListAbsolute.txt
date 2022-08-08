@@ -1,0 +1,28 @@
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.AssemblyReference.cache
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld 2/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld 2/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld 2/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld 2/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld 2/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld 2/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld 2/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.AssemblyReference.cache
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld 2/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld 2/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld 2/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld 2/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld 2/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld 2/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld 2/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache
