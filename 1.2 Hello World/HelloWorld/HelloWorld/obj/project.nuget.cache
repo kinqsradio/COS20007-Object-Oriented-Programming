@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "v6RfkdAXAe+3nPBwWUxFmVpaPKmsHrsQxx5LZ2sVsnedM+KJzbRSc7v8n1n/U8d/icv5jJ38jBDPgd/Bc8mLvA==",
+  "dgSpecHash": "2IxXjOIM0thkBlt1ckHEFhBkDqW70Ella6J++QtKtNSf+5H0ZmDmvlRcV+hqEnL9qwAdstbdqWgHaQoINJsqzg==",
   "success": true,
   "projectFilePath": "/Users/anhdang/Documents/#University/OOP/1.2 Hello World/HelloWorld/HelloWorld/HelloWorld.csproj",
   "expectedPackageFiles": [
+    "/Users/anhdang/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "/Users/anhdang/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/Users/anhdang/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.27/microsoft.netcore.app.host.osx-x64.3.1.27.nupkg.sha512",
-    "/Users/anhdang/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "/Users/anhdang/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512"
   ],
   "logs": []
 }

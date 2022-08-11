@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "0989ARjrQoN0kpZRjudmKPM268yhFfsVpjzgTSY87a5BKif2n8eXCZnxiLHIBAdxnStxZQcECdDAwaphl2RyaQ==",
+  "dgSpecHash": "mtpCq11QYSJuKTXZjVgjNYrJQC7UVFMcSf4gyM7OxkDUUjZOnu7aU41kiNQRO22SEYipDEDptAbI8SXDYxohgw==",
   "success": true,
   "projectFilePath": "/Users/anhdang/Documents/#University/OOP/2.1 - Counter Class/CounterClass/CounterClass/CounterTask.csproj",
   "expectedPackageFiles": [
     "/Users/anhdang/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/Users/anhdang/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.27/microsoft.netcore.app.host.osx-x64.3.1.27.nupkg.sha512",
+    "/Users/anhdang/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
     "/Users/anhdang/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []

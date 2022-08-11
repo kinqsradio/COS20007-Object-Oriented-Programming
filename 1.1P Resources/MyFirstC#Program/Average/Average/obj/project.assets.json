@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anhdang/Desktop/Average/Average/Average/Average.csproj",
+      "projectUniqueName": "/Users/anhdang/Documents/#University/OOP/1.1P Resources/MyFirstC#Program/Average/Average/Average.csproj",
       "projectName": "Average",
-      "projectPath": "/Users/anhdang/Desktop/Average/Average/Average/Average.csproj",
+      "projectPath": "/Users/anhdang/Documents/#University/OOP/1.1P Resources/MyFirstC#Program/Average/Average/Average.csproj",
       "packagesPath": "/Users/anhdang/.nuget/packages/",
-      "outputPath": "/Users/anhdang/Desktop/Average/Average/Average/obj/",
+      "outputPath": "/Users/anhdang/Documents/#University/OOP/1.1P Resources/MyFirstC#Program/Average/Average/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/anhdang/.nuget/NuGet/NuGet.Config"

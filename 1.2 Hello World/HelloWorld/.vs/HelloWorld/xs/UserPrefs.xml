@@ -1,17 +1,17 @@
 ﻿<Properties StartupConfiguration="{B71087F9-AE33-4EB0-99FC-F5FD2548D09B}|Default">
+  <MonoDevelop.Ide.ItemProperties.HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/Program.cs">
     <Files>
-      <File FileName="HelloWorld/Program.cs" Line="24" Column="31" />
+      <File FileName="HelloWorld/Program.cs" Line="39" Column="41" />
       <File FileName="HelloWorld/Message.cs" Line="10" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HelloWorld" expanded="True">
-            <Node name="HelloWorld" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="HelloWorld" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -20,10 +20,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

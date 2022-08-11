@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lkvKK4pivGjWNX6xyyECYFffXtM/2hhssRjPbOeKbTLaVzrIw0dWUpg4T0L8PKAI2QabzOgU+v74iRfHVZJxMw==",
+  "success": true,
+  "projectFilePath": "/Users/anhdang/Documents/#University/OOP/4.2P - Drawing Program - Multiple Shape Kinds/DrawingShape/DrawingShape/DrawingShape.csproj",
+  "expectedPackageFiles": [
+    "/Users/anhdang/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/anhdang/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/anhdang/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -12,3 +12,17 @@
 /Users/anhdang/Desktop/Average/Average/Average/obj/Debug/netcoreapp3.1/Average.dll
 /Users/anhdang/Desktop/Average/Average/Average/obj/Debug/netcoreapp3.1/Average.pdb
 /Users/anhdang/Desktop/Average/Average/Average/obj/Debug/netcoreapp3.1/Average.genruntimeconfig.cache
+/Users/anhdang/Documents/#University/OOP/1.1P Resources/MyFirstC#Program/Average/Average/bin/Debug/netcoreapp3.1/Average
+/Users/anhdang/Documents/#University/OOP/1.1P Resources/MyFirstC#Program/Average/Average/bin/Debug/netcoreapp3.1/Average.deps.json
+/Users/anhdang/Documents/#University/OOP/1.1P Resources/MyFirstC#Program/Average/Average/bin/Debug/netcoreapp3.1/Average.runtimeconfig.json
+/Users/anhdang/Documents/#University/OOP/1.1P Resources/MyFirstC#Program/Average/Average/bin/Debug/netcoreapp3.1/Average.runtimeconfig.dev.json
+/Users/anhdang/Documents/#University/OOP/1.1P Resources/MyFirstC#Program/Average/Average/bin/Debug/netcoreapp3.1/Average.dll
+/Users/anhdang/Documents/#University/OOP/1.1P Resources/MyFirstC#Program/Average/Average/bin/Debug/netcoreapp3.1/Average.pdb
+/Users/anhdang/Documents/#University/OOP/1.1P Resources/MyFirstC#Program/Average/Average/obj/Debug/netcoreapp3.1/Average.csproj.AssemblyReference.cache
+/Users/anhdang/Documents/#University/OOP/1.1P Resources/MyFirstC#Program/Average/Average/obj/Debug/netcoreapp3.1/Average.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anhdang/Documents/#University/OOP/1.1P Resources/MyFirstC#Program/Average/Average/obj/Debug/netcoreapp3.1/Average.AssemblyInfoInputs.cache
+/Users/anhdang/Documents/#University/OOP/1.1P Resources/MyFirstC#Program/Average/Average/obj/Debug/netcoreapp3.1/Average.AssemblyInfo.cs
+/Users/anhdang/Documents/#University/OOP/1.1P Resources/MyFirstC#Program/Average/Average/obj/Debug/netcoreapp3.1/Average.csproj.CoreCompileInputs.cache
+/Users/anhdang/Documents/#University/OOP/1.1P Resources/MyFirstC#Program/Average/Average/obj/Debug/netcoreapp3.1/Average.dll
+/Users/anhdang/Documents/#University/OOP/1.1P Resources/MyFirstC#Program/Average/Average/obj/Debug/netcoreapp3.1/Average.pdb
+/Users/anhdang/Documents/#University/OOP/1.1P Resources/MyFirstC#Program/Average/Average/obj/Debug/netcoreapp3.1/Average.genruntimeconfig.cache
