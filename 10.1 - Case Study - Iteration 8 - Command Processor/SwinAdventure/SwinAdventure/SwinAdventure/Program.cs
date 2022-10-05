@@ -8,12 +8,6 @@ namespace SwinAdventure
 {
     public class Program
     {
-        static void LookCommandExe(Command l, string input, Player player)
-        {
-            Console.WriteLine(l.Execute(player, input.Split()));
-
-        }
-
         static void Main(string[] args)
         {
             //Greeting + info
@@ -30,18 +24,22 @@ namespace SwinAdventure
 
             //Setting up player
 
-            Console.Write("\nSetting up platey:\nPlayer Name: ");
+            Console.Write("\nSetting up player:\nPlayer Name: ");
             name = Console.ReadLine();
             Console.Write("Player Description: ");
             desc = Console.ReadLine();
             Player player = new Player(name, desc);
+            Console.Write("\n");
+			//End setting up player
 
-            //End setting up player
+			//Set up location
 
-            //Set up location
-
-            Location myroom = new Location("My Room", $"This is my room");
+			Location myroom = new Location("My Room", $"This is my room");
             player.Location = myroom; //set up player initial location
+
+            Location gamingroom = new Location("Gaming room", "This is my gaming room");
+            Path myroom2gamingroom = new Path(new string[] { "north" }, "Door", "Travel through door", myroom, gamingroom);
+            myroom.AddPath(myroom2gamingroom);
 
             //End set up location
 
@@ -58,16 +56,17 @@ namespace SwinAdventure
 
             //Location items
 
-            myroom.Inventory.Put(monitor);
-            myroom.Inventory.Put(computer);
             myroom.Inventory.Put(phone);
 
+			gamingroom.Inventory.Put(monitor);
+			gamingroom.Inventory.Put(computer);
 
-            //End location items
 
-            //Setting up inventory
+			//End location items
 
-            Bag bag = new Bag(new string[] { $"bag" }, $"{player.Name}'s bag", $"This is {player.Name}'s bag");
+			//Setting up inventory
+
+			Bag bag = new Bag(new string[] { $"bag" }, $"{player.Name}'s bag", $"This is {player.Name}'s bag");
             player.Inventory.Put(shovel);
             player.Inventory.Put(sword);
             player.Inventory.Put(bag);
@@ -77,26 +76,27 @@ namespace SwinAdventure
 
             //Proccessing input command
             string _input;
-            Command l = new LookCommand();
+			Command c = new CommandProcessor();
+			Console.WriteLine(c.Execute(player, new string[] { "look" }));
 
-            while (true)
-            {
-                Console.Write("Command: ");
-                _input = Console.ReadLine();
-                if (_input == "quit")
-                {
-                    break;
-                }else if (_input == "help")
-                {
-                    Console.Write(help);
-                }
-                else
-                {
-                    LookCommandExe(l, _input, player);
-                }
-            }
+			while (true)
+			{
+				Console.Write("Command: ");
+				_input = Console.ReadLine();
 
-            //End Processing input command
-        }
+				if (_input.ToLower() != "quit")
+				{
+					Console.WriteLine(c.Execute(player, _input.Split()));
+				}
+				else
+				{
+					Console.WriteLine("Bye");
+					Console.ReadKey();
+					break;
+				}
+			}
+
+			//End Processing input command
+		}
     }
 }
