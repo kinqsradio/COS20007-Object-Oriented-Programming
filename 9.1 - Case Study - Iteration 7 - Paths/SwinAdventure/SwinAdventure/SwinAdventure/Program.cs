@@ -34,18 +34,29 @@ namespace SwinAdventure
 
 			//Set up location
 
-			Location myroom = new Location("My Room", $"This is my room");
+			Location myroom = new Location("My Room", "My room");
             player.Location = myroom; //set up player initial location
 
-            Location gamingroom = new Location("Gaming room", "This is my gaming room");
+            Location gamingroom = new Location("Gaming room", "Gaming room");
             Path myroom2gamingroom = new Path(new string[] { "north" }, "Door", "Travel through door", myroom, gamingroom);
-            myroom.AddPath(myroom2gamingroom);
+			Path gamingroom2myroom = new Path(new string[] { "south" }, "Door", "Travel through door", gamingroom, myroom);
+			myroom.AddPath(myroom2gamingroom);
+            gamingroom.AddPath(gamingroom2myroom);
 
-            //End set up location
+			Location livingroom = new Location("Livingroom", "Livingroom");
+			Path myroom2livingroom = new Path(new string[] { "down" }, "Door", "Travel through door", myroom, livingroom);
+			Path livingroom2myroom = new Path(new string[] { "up" }, "Door", "Travel through door", livingroom, myroom);
+			myroom.AddPath(myroom2livingroom);
+            livingroom.AddPath(livingroom2myroom);
 
-            //Setting up list of items
 
-            Item shovel = new Item(new string[] { "shovel" }, "a shovel", "This is a shovel");
+
+
+			//End set up location
+
+			//Setting up list of items
+
+			Item shovel = new Item(new string[] { "shovel" }, "a shovel", "This is a shovel");
             Item sword = new Item(new string[] { "sword" }, "a sword", "This is a sword");
             Item diamond = new Item(new string[] { "diamond" }, "a diamond", "This is a diamond");
             Item monitor = new Item(new string[] { "monitor" }, "a monitor", "This is a monitor");
