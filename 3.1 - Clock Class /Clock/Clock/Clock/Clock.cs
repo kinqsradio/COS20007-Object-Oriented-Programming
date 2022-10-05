@@ -32,6 +32,15 @@ namespace Clock
             }
         }
 
+        public void SetTime(string s)
+        {
+            string[] array = s.Split(":");
+
+            _hour = new Counter("hour", int.Parse(array[0]));
+            _minute = new Counter("minute", int.Parse(array[1]));
+            _seccond = new Counter("second", int.Parse(array[2]));
+        }
+
         public void Reset()
         {
             _seccond.Reset();

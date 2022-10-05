@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nQkAGu0FbifJbsUeBZWN5vd4VkpJP8DCJZN7lvB06JSGScwsvql77sJriIIf8zEDgLXK8dcSJYaHwXb4YhGeWA==",
+  "success": true,
+  "projectFilePath": "/Users/anhdang/Documents/#University/OOP/7.2 - Case Study - Iteration 6 - Locations/SwinAdventure/SwinAdventure/SwinAdventure/SwinAdventure.csproj",
+  "expectedPackageFiles": [
+    "/Users/anhdang/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/anhdang/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/anhdang/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

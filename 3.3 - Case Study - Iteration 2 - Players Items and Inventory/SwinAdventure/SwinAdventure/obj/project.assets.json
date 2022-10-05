@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anhdang/Documents/#University/OOP/SwinAdventure/SwinAdventure/SwinAdventure.csproj",
+      "projectUniqueName": "/Users/anhdang/Documents/#University/OOP/3.3 - Case Study - Iteration 2 - Players Items and Inventory/SwinAdventure/SwinAdventure/SwinAdventure.csproj",
       "projectName": "SwinAdventure",
-      "projectPath": "/Users/anhdang/Documents/#University/OOP/SwinAdventure/SwinAdventure/SwinAdventure.csproj",
+      "projectPath": "/Users/anhdang/Documents/#University/OOP/3.3 - Case Study - Iteration 2 - Players Items and Inventory/SwinAdventure/SwinAdventure/SwinAdventure.csproj",
       "packagesPath": "/Users/anhdang/.nuget/packages/",
-      "outputPath": "/Users/anhdang/Documents/#University/OOP/SwinAdventure/SwinAdventure/obj/",
+      "outputPath": "/Users/anhdang/Documents/#University/OOP/3.3 - Case Study - Iteration 2 - Players Items and Inventory/SwinAdventure/SwinAdventure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/anhdang/.nuget/NuGet/NuGet.Config"

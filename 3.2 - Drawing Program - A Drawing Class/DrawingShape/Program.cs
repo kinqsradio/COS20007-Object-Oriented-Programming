@@ -8,7 +8,7 @@ namespace DrawingShape
         public static void Main()
         {
 
-            Drawing drawShape = new Drawing();
+            Drawing myDrawing = new Drawing();
 
             new Window("Drawing Shape", 800, 600);
             do
@@ -21,13 +21,13 @@ namespace DrawingShape
                 {
                     int x_pos = (int)SplashKit.MouseX();
                     int y_pos = (int)SplashKit.MouseY();
-                    drawShape.AddShape(new Shape(x_pos, y_pos));
+                    myDrawing.AddShape(new Shape(x_pos, y_pos));
                     Console.WriteLine("Mouse Left");
                 }
 
                 if (SplashKit.MouseClicked(MouseButton.RightButton))
                 {
-                    drawShape.SelectedShapeAt(SplashKit.MousePosition());
+                    myDrawing.SelectedShapeAt(SplashKit.MousePosition());
                     Console.WriteLine("Mouse Right");
                 }
 
@@ -35,7 +35,7 @@ namespace DrawingShape
                 //Additional Function
                 if (SplashKit.KeyDown(KeyCode.EscapeKey))
                 {
-                    drawShape.ChangingShapeColor();
+                    myDrawing.ChangingShapeColor();
                     Console.WriteLine("ESC");
                 }
 
@@ -51,17 +51,17 @@ namespace DrawingShape
                     {
                         Console.WriteLine("Delete");
                     }
-                    drawShape.RemoveShape();
+                    myDrawing.RemoveShape();
                 }
 
 
                 if (SplashKit.KeyTyped(KeyCode.SpaceKey))
                 {
-                    drawShape.Background = SplashKit.RandomRGBColor(255);
+                    myDrawing.Background = SplashKit.RandomRGBColor(255);
                     Console.WriteLine("SpaceKey");
                 }
 
-                drawShape.Draw();
+                myDrawing.Draw();
 
                 SplashKit.RefreshScreen();
 

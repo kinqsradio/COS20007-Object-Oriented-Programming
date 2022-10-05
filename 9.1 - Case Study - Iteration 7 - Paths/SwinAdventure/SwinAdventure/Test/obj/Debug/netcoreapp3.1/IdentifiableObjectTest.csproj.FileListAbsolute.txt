@@ -1,0 +1,206 @@
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/obj/Debug/netcoreapp3.1/IdentifiableObjectTest.csproj.AssemblyReference.cache
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/obj/Debug/netcoreapp3.1/IdentifiableObjectTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/obj/Debug/netcoreapp3.1/IdentifiableObjectTest.AssemblyInfoInputs.cache
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/obj/Debug/netcoreapp3.1/IdentifiableObjectTest.AssemblyInfo.cs
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/obj/Debug/netcoreapp3.1/IdentifiableObjectTest.csproj.CoreCompileInputs.cache
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/IdentifiableObject.deps.json
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/IdentifiableObject.runtimeconfig.json
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/IdentifiableObject.runtimeconfig.dev.json
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/IdentifiableObject
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/nunit.engine.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/IdentifiableObjectTest.deps.json
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/IdentifiableObjectTest.runtimeconfig.json
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/IdentifiableObjectTest.runtimeconfig.dev.json
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/IdentifiableObjectTest.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/IdentifiableObjectTest.pdb
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/testhost.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/nunit.framework.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/IdentifiableObject.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/IdentifiableObject.pdb
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/obj/Debug/netcoreapp3.1/IdentifiableObjectTest.csproj.CopyComplete
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/obj/Debug/netcoreapp3.1/IdentifiableObjectTest.dll
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/obj/Debug/netcoreapp3.1/IdentifiableObjectTest.pdb
+/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObjectTest/obj/Debug/netcoreapp3.1/IdentifiableObjectTest.genruntimeconfig.cache
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/obj/Debug/netcoreapp3.1/IdentifiableObjectTest.csproj.AssemblyReference.cache
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/obj/Debug/netcoreapp3.1/IdentifiableObjectTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/obj/Debug/netcoreapp3.1/IdentifiableObjectTest.AssemblyInfoInputs.cache
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/obj/Debug/netcoreapp3.1/IdentifiableObjectTest.AssemblyInfo.cs
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/obj/Debug/netcoreapp3.1/IdentifiableObjectTest.csproj.CoreCompileInputs.cache
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/obj/Debug/netcoreapp3.1/IdentifiableObjectTest.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/obj/Debug/netcoreapp3.1/IdentifiableObjectTest.pdb
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/nunit.engine.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/SwinAdventure.deps.json
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/SwinAdventure.runtimeconfig.json
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/SwinAdventure.runtimeconfig.dev.json
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/SwinAdventure
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/IdentifiableObjectTest.deps.json
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/IdentifiableObjectTest.runtimeconfig.json
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/IdentifiableObjectTest.runtimeconfig.dev.json
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/IdentifiableObjectTest.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/IdentifiableObjectTest.pdb
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/testhost.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/nunit.framework.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/SwinAdventure.dll
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/bin/Debug/netcoreapp3.1/SwinAdventure.pdb
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/obj/Debug/netcoreapp3.1/IdentifiableObjectTest.csproj.CopyComplete
+/Users/anhdang/Documents/#University/OOP/IdentifiableObject/IdentifiableObjectTest/obj/Debug/netcoreapp3.1/IdentifiableObjectTest.genruntimeconfig.cache

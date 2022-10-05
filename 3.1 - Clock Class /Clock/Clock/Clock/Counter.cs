@@ -17,6 +17,12 @@ namespace Clock
             _name = name;
         }
 
+        public Counter(string name, int count)
+        {
+            _name = name;
+            _count = count;
+        }
+
         public void Reset()
         {
             _count = 0;

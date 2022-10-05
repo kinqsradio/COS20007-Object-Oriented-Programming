@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "nKkh+ugFQY3GSiI1x6rT3apB1kbO0ioKJJ0s+CPxaMQXaU6rRIZYqpSpyCZ7+qDbtzjvfZFhFpKxAT+d+U3KOg==",
+  "dgSpecHash": "DNC7FCjGtYN4TqnSarrlkSIPdQmNwtu1eSiovE89yjYzr1mIIB8ZYiVhFzOhXiTAjtBppPktv8v9Nf7EWMZJCw==",
   "success": true,
   "projectFilePath": "/Users/anhdang/Documents/#University/OOP/3.1 - Clock Class /Clock/Clock/Clock/Clock.csproj",
   "expectedPackageFiles": [
-    "/Users/anhdang/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "/Users/anhdang/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/Users/anhdang/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.27/microsoft.netcore.app.host.osx-x64.3.1.27.nupkg.sha512"
+    "/Users/anhdang/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/anhdang/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }

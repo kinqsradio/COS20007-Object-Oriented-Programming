@@ -1,0 +1,14 @@
+/Users/anhdang/Documents/#University/OOP/SemesterTest/SemesterTest/obj/Debug/netcoreapp3.1/SemesterTest.csproj.AssemblyReference.cache
+/Users/anhdang/Documents/#University/OOP/SemesterTest/SemesterTest/obj/Debug/netcoreapp3.1/SemesterTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anhdang/Documents/#University/OOP/SemesterTest/SemesterTest/obj/Debug/netcoreapp3.1/SemesterTest.AssemblyInfoInputs.cache
+/Users/anhdang/Documents/#University/OOP/SemesterTest/SemesterTest/obj/Debug/netcoreapp3.1/SemesterTest.AssemblyInfo.cs
+/Users/anhdang/Documents/#University/OOP/SemesterTest/SemesterTest/obj/Debug/netcoreapp3.1/SemesterTest.csproj.CoreCompileInputs.cache
+/Users/anhdang/Documents/#University/OOP/SemesterTest/SemesterTest/bin/Debug/netcoreapp3.1/SemesterTest
+/Users/anhdang/Documents/#University/OOP/SemesterTest/SemesterTest/bin/Debug/netcoreapp3.1/SemesterTest.deps.json
+/Users/anhdang/Documents/#University/OOP/SemesterTest/SemesterTest/bin/Debug/netcoreapp3.1/SemesterTest.runtimeconfig.json
+/Users/anhdang/Documents/#University/OOP/SemesterTest/SemesterTest/bin/Debug/netcoreapp3.1/SemesterTest.runtimeconfig.dev.json
+/Users/anhdang/Documents/#University/OOP/SemesterTest/SemesterTest/bin/Debug/netcoreapp3.1/SemesterTest.dll
+/Users/anhdang/Documents/#University/OOP/SemesterTest/SemesterTest/bin/Debug/netcoreapp3.1/SemesterTest.pdb
+/Users/anhdang/Documents/#University/OOP/SemesterTest/SemesterTest/obj/Debug/netcoreapp3.1/SemesterTest.dll
+/Users/anhdang/Documents/#University/OOP/SemesterTest/SemesterTest/obj/Debug/netcoreapp3.1/SemesterTest.pdb
+/Users/anhdang/Documents/#University/OOP/SemesterTest/SemesterTest/obj/Debug/netcoreapp3.1/SemesterTest.genruntimeconfig.cache

@@ -1,22 +1,18 @@
 ﻿<Properties StartupConfiguration="{7067138E-CE5E-4280-ACC3-9EE78609B881}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="Drawing.cs">
     <Files>
-      <File FileName="Program.cs" Line="86" Column="31" />
+      <File FileName="Program.cs" Line="30" Column="51" />
       <File FileName="Drawing.cs" Line="79" Column="18" />
       <File FileName="Shape.cs" Line="63" Column="29" />
       <File FileName="MyRectangle.cs" Line="26" Column="16" />
-      <File FileName="MyCircle.cs" Line="18" Column="1" />
+      <File FileName="MyCircle.cs" Line="43" Column="29" />
       <File FileName="MyLine.cs" Line="19" Column="55" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DrawingShape" expanded="True">
-            <Node name="DrawingShape" expanded="True">
-              <Node name="Drawing.cs" selected="True" />
-            </Node>
+            <Node name="DrawingShape" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -27,6 +23,8 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.DrawingShape PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

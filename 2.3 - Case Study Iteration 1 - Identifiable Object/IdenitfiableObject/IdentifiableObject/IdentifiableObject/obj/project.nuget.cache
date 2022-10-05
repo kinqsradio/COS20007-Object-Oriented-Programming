@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "gYjYpv41MCkYYNaC0j7uVTybsJ8Xrlf9QPQzbQzZJSvEYaXCTeOUCBtYEYEMHTgoiQFtuW6uoODOhJ9kGH382g==",
+  "dgSpecHash": "FaGeOl2AGd/1TKvHsejYoHKd2HvwLxEuQE2bxyme8aD0EtT8013/WsU8eL8BpSYY9AN6ngEv2+iSEj5mEVRLyQ==",
   "success": true,
   "projectFilePath": "/Users/anhdang/Documents/#University/OOP/2.3 - Case Study Iteration 1 - Identifiable Object/IdenitfiableObject/IdentifiableObject/IdentifiableObject/IdentifiableObject.csproj",
   "expectedPackageFiles": [
     "/Users/anhdang/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/Users/anhdang/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.27/microsoft.netcore.app.host.osx-x64.3.1.27.nupkg.sha512",
+    "/Users/anhdang/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
     "/Users/anhdang/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []

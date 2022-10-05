@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anhdang/Documents/#University/OOP/SwinAdventure/Test/Test.csproj": {}
+    "/Users/anhdang/Documents/#University/OOP/3.3 - Case Study - Iteration 2 - Players Items and Inventory/SwinAdventure/Test/Test.csproj": {}
   },
   "projects": {
-    "/Users/anhdang/Documents/#University/OOP/SwinAdventure/SwinAdventure/SwinAdventure.csproj": {
+    "/Users/anhdang/Documents/#University/OOP/3.3 - Case Study - Iteration 2 - Players Items and Inventory/SwinAdventure/SwinAdventure/SwinAdventure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anhdang/Documents/#University/OOP/SwinAdventure/SwinAdventure/SwinAdventure.csproj",
+        "projectUniqueName": "/Users/anhdang/Documents/#University/OOP/3.3 - Case Study - Iteration 2 - Players Items and Inventory/SwinAdventure/SwinAdventure/SwinAdventure.csproj",
         "projectName": "SwinAdventure",
-        "projectPath": "/Users/anhdang/Documents/#University/OOP/SwinAdventure/SwinAdventure/SwinAdventure.csproj",
+        "projectPath": "/Users/anhdang/Documents/#University/OOP/3.3 - Case Study - Iteration 2 - Players Items and Inventory/SwinAdventure/SwinAdventure/SwinAdventure.csproj",
         "packagesPath": "/Users/anhdang/.nuget/packages/",
-        "outputPath": "/Users/anhdang/Documents/#University/OOP/SwinAdventure/SwinAdventure/obj/",
+        "outputPath": "/Users/anhdang/Documents/#University/OOP/3.3 - Case Study - Iteration 2 - Players Items and Inventory/SwinAdventure/SwinAdventure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/anhdang/.nuget/NuGet/NuGet.Config"
@@ -71,14 +71,14 @@
         }
       }
     },
-    "/Users/anhdang/Documents/#University/OOP/SwinAdventure/Test/Test.csproj": {
+    "/Users/anhdang/Documents/#University/OOP/3.3 - Case Study - Iteration 2 - Players Items and Inventory/SwinAdventure/Test/Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anhdang/Documents/#University/OOP/SwinAdventure/Test/Test.csproj",
+        "projectUniqueName": "/Users/anhdang/Documents/#University/OOP/3.3 - Case Study - Iteration 2 - Players Items and Inventory/SwinAdventure/Test/Test.csproj",
         "projectName": "Test",
-        "projectPath": "/Users/anhdang/Documents/#University/OOP/SwinAdventure/Test/Test.csproj",
+        "projectPath": "/Users/anhdang/Documents/#University/OOP/3.3 - Case Study - Iteration 2 - Players Items and Inventory/SwinAdventure/Test/Test.csproj",
         "packagesPath": "/Users/anhdang/.nuget/packages/",
-        "outputPath": "/Users/anhdang/Documents/#University/OOP/SwinAdventure/Test/obj/",
+        "outputPath": "/Users/anhdang/Documents/#University/OOP/3.3 - Case Study - Iteration 2 - Players Items and Inventory/SwinAdventure/Test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/anhdang/.nuget/NuGet/NuGet.Config"
@@ -93,8 +93,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/anhdang/Documents/#University/OOP/SwinAdventure/SwinAdventure/SwinAdventure.csproj": {
-                "projectPath": "/Users/anhdang/Documents/#University/OOP/SwinAdventure/SwinAdventure/SwinAdventure.csproj"
+              "/Users/anhdang/Documents/#University/OOP/3.3 - Case Study - Iteration 2 - Players Items and Inventory/SwinAdventure/SwinAdventure/SwinAdventure.csproj": {
+                "projectPath": "/Users/anhdang/Documents/#University/OOP/3.3 - Case Study - Iteration 2 - Players Items and Inventory/SwinAdventure/SwinAdventure/SwinAdventure.csproj"
               }
             }
           }

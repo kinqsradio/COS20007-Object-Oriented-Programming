@@ -16,14 +16,15 @@ namespace SwinAdventure
 
         public bool HasItem(string id)
         {
-            foreach(Item i in _items)
+            foreach (Item i in _items)
             {
                 if (i.AreYou(id))
                 {
                     return true;
                 }
-        
-            }return false;
+
+            }
+            return false;
         }
 
         public void Put(Item itm)
@@ -33,27 +34,21 @@ namespace SwinAdventure
 
         public Item Take(string id)
         {
-            foreach(Item i in _items)
-            {
-                if (i.AreYou(id))
-                {
-                    Item Found = i;
-                    _items.Remove(i);
-                    return Found;
-
-                }
-            }return null;
+            Item takeitem = this.Fetch(id);
+            _items.Remove(takeitem);
+            return takeitem;
         }
 
         public Item Fetch(string id)
         {
-            foreach(Item i in _items)
+            foreach (Item i in _items)
             {
                 if (i.AreYou(id))
                 {
                     return i;
                 }
-            }return null;
+            }
+            return null;
         }
 
         public string ItemList
@@ -61,7 +56,7 @@ namespace SwinAdventure
             get
             {
                 string listitm = "";
-                foreach(Item i in _items)
+                foreach (Item i in _items)
                 {
                     listitm = listitm + i.ShortDescription + "\n";
                 }

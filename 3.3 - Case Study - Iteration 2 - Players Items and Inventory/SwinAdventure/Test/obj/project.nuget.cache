@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dM8eZGIpTCPSV/M0zrJLbkQOp8+/j1+rdQw6aMD0epmSXVqJn9ULWKuoh/n9mfT4gvG0pfQSeZwSKy7DT/30sQ==",
+  "dgSpecHash": "BhJMQLWJu+HjDENKMXFPA8A1EgDYr46ECZZ44Laqg7X7hzxIXSW85cGKZji2WsOmeQ0beTRwIiDaQhTs7l8eTw==",
   "success": true,
-  "projectFilePath": "/Users/anhdang/Documents/#University/OOP/SwinAdventure/Test/Test.csproj",
+  "projectFilePath": "/Users/anhdang/Documents/#University/OOP/3.3 - Case Study - Iteration 2 - Players Items and Inventory/SwinAdventure/Test/Test.csproj",
   "expectedPackageFiles": [
     "/Users/anhdang/.nuget/packages/microsoft.codecoverage/16.5.0/microsoft.codecoverage.16.5.0.nupkg.sha512",
     "/Users/anhdang/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",

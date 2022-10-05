@@ -3,18 +3,20 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace IdentifiableObject
+namespace SwinAdventure
 {
     public class IdentifiableObject
     {
-        private List<string> _identifiers = new List<string>();
+        private List<string> _identifiers;
 
         public IdentifiableObject(string[] idents)
         {
-            foreach(string s in idents)
+            _identifiers = new List<string>();
+            for (int i = 0; i < idents.Length; i++)
             {
-                _identifiers.Add(s.ToLower());
+                _identifiers.Add(idents[i].ToLower());
             }
+
         }
 
         public bool AreYou(string id)
@@ -26,7 +28,15 @@ namespace IdentifiableObject
         {
             get
             {
-                return _identifiers.First();
+                if (_identifiers.Count == 0)
+                {
+                    return "";
+                }
+                else
+                {
+                    return _identifiers.First();
+
+                }
             }
         }
 
@@ -36,4 +46,3 @@ namespace IdentifiableObject
         }
     }
 }
-

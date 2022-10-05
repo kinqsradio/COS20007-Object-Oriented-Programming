@@ -1,17 +1,20 @@
 ﻿<Properties StartupConfiguration="{185F5831-E83C-40F0-8495-26ACAFAF832C}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Clock PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Clock/Program.cs">
+    <Files>
+      <File FileName="Clock/Clock.cs" Line="58" Column="1" />
+      <File FileName="Clock/Program.cs" Line="20" Column="17" />
+      <File FileName="ClockTest/ClockTest.cs" Line="37" Column="38" />
+      <File FileName="ClockTest/TestCounter.cs" Line="24" Column="29" />
+      <File FileName="Clock/Counter.cs" Line="55" Column="6" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Clock" expanded="True">
             <Node name="Clock" expanded="True">
-              <Node name="Clock.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
             <Node name="ClockTest" expanded="True" />
           </Node>
@@ -22,10 +25,21 @@
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="Clock" expanded="True" selected="True" />
+          <Node name="Clock" expanded="True">
+            <Node name="ClockTest" expanded="True">
+              <Node name="Clock" expanded="True">
+                <Node name="ClockTest" expanded="True" />
+                <Node name="TestCounter" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Clock PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

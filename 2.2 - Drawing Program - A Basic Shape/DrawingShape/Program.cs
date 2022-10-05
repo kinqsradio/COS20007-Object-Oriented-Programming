@@ -18,16 +18,15 @@ namespace DrawingShape
 
                 if(SplashKit.MouseClicked(MouseButton.LeftButton))
                 {
-                    myShape.X = (float)SplashKit.MousePosition().X;
-                    myShape.Y = (float)SplashKit.MousePosition().Y;
-
+                    myShape.X = (float)SplashKit.MouseX();
+                    myShape.Y = (float)SplashKit.MouseY();
                 }
 
                 if(myShape.IsAt(SplashKit.MousePosition()))
                 {
                     if(SplashKit.KeyDown(KeyCode.SpaceKey))
                     {
-                        myShape.COLOR = Color.RandomRGB(255);
+                        myShape.Color = Color.RandomRGB(255);
                     }
                 }
 
@@ -41,4 +40,3 @@ namespace DrawingShape
     }
 
 }
-

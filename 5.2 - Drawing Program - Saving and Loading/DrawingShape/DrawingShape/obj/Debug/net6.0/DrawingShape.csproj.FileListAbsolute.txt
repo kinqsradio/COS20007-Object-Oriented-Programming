@@ -1,0 +1,5 @@
+/Users/anhdang/Documents/#University/OOP/2.2 - Drawing Program - A Basic Shape/DrawingShape/obj/Debug/net6.0/DrawingShape.csproj.AssemblyReference.cache
+/Users/anhdang/Documents/#University/OOP/2.2 - Drawing Program - A Basic Shape/DrawingShape/obj/Debug/net6.0/DrawingShape.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anhdang/Documents/#University/OOP/2.2 - Drawing Program - A Basic Shape/DrawingShape/obj/Debug/net6.0/DrawingShape.AssemblyInfoInputs.cache
+/Users/anhdang/Documents/#University/OOP/2.2 - Drawing Program - A Basic Shape/DrawingShape/obj/Debug/net6.0/DrawingShape.AssemblyInfo.cs
+/Users/anhdang/Documents/#University/OOP/2.2 - Drawing Program - A Basic Shape/DrawingShape/obj/Debug/net6.0/DrawingShape.csproj.CoreCompileInputs.cache

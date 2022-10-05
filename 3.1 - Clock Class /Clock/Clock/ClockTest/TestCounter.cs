@@ -13,6 +13,12 @@ namespace Clock
         }
 
         [Test]
+        public void test_start9()
+        {
+            Assert.AreEqual(0, _countertest.Tick);
+        }
+
+        [Test]
         public void test_name()
         {
             Assert.AreEqual("Test", _countertest.Name);
@@ -26,6 +32,7 @@ namespace Clock
             Assert.AreEqual(0, _countertest.Tick);
         }
 
+        [TestCase(60, 60)]
         [TestCase(100,100)]
         public void test_increment(int tick, int result)
         {

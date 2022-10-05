@@ -16,7 +16,7 @@ namespace DrawingShape
             _width = _height = 100; //Setting shape dimesions
         }
 
-        public Color COLOR
+        public Color Color
         {
             get
             {
