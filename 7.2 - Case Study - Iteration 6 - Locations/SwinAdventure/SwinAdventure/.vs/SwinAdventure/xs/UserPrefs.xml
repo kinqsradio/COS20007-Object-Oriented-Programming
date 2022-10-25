@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdventure/LookCommand.cs">
     <Files>
       <File FileName="SwinAdventure/Player.cs" Line="50" Column="1" />
-      <File FileName="SwinAdventure/LookCommand.cs" Line="36" Column="43" />
+      <File FileName="SwinAdventure/LookCommand.cs" Line="59" Column="10" />
       <File FileName="SwinAdventure/Item.cs" Line="8" Column="29" />
       <File FileName="SwinAdventure/Inventory.cs" Line="76" Column="14" />
       <File FileName="SwinAdventure/IHaveInventory.cs" Line="17" Column="1" />
@@ -41,11 +41,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SwinAdventure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.SwinAdventure PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

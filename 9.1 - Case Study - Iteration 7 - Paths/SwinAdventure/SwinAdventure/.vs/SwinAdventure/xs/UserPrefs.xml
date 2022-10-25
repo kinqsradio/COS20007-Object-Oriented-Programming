@@ -1,4 +1,7 @@
 ﻿<Properties StartupConfiguration="{E425CE83-54DF-4EBD-B669-FE8FD6E4D987}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdventure/Program.cs">
     <Files>
       <File FileName="SwinAdventure/GameObject.cs" Line="10" Column="11" />
@@ -13,7 +16,7 @@
       <File FileName="SwinAdventure/LookCommand.cs" Line="48" Column="51" />
       <File FileName="SwinAdventure/Move.cs" Line="40" Column="53" />
       <File FileName="SwinAdventure/Path.cs" Line="40" Column="1" />
-      <File FileName="SwinAdventure/Program.cs" Line="64" Column="1" />
+      <File FileName="SwinAdventure/Program.cs" Line="47" Column="49" />
       <File FileName="SwinAdventure/Player.cs" Line="45" Column="16" />
       <File FileName="SwinAdventure/Message.cs" Line="1" Column="1" />
       <File FileName="SwinAdventure/CommandProcessor.cs" Line="16" Column="1" />
@@ -22,9 +25,7 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SwinAdventure" expanded="True">
-            <Node name="SwinAdventure" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="SwinAdventure" expanded="True" />
             <Node name="Test" expanded="True" />
           </Node>
         </State>
@@ -34,16 +35,17 @@
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="SwinAdventure" expanded="True" selected="True" />
+          <Node name="SwinAdventure" expanded="True" selected="True">
+            <Node name="Test" expanded="True">
+              <Node name="SwinAdventure" expanded="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.SwinAdventure PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

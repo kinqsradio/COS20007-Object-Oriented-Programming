@@ -12,3 +12,17 @@
 /Users/anhdang/Documents/#University/OOP/SemesterTest/SemesterTest/obj/Debug/netcoreapp3.1/SemesterTest.dll
 /Users/anhdang/Documents/#University/OOP/SemesterTest/SemesterTest/obj/Debug/netcoreapp3.1/SemesterTest.pdb
 /Users/anhdang/Documents/#University/OOP/SemesterTest/SemesterTest/obj/Debug/netcoreapp3.1/SemesterTest.genruntimeconfig.cache
+C:\Users\Duc Anh\Desktop\Object-Oriented-Programming-main\SemesterTest\SemesterTest\bin\Debug\netcoreapp3.1\SemesterTest.exe
+C:\Users\Duc Anh\Desktop\Object-Oriented-Programming-main\SemesterTest\SemesterTest\bin\Debug\netcoreapp3.1\SemesterTest.deps.json
+C:\Users\Duc Anh\Desktop\Object-Oriented-Programming-main\SemesterTest\SemesterTest\bin\Debug\netcoreapp3.1\SemesterTest.runtimeconfig.json
+C:\Users\Duc Anh\Desktop\Object-Oriented-Programming-main\SemesterTest\SemesterTest\bin\Debug\netcoreapp3.1\SemesterTest.runtimeconfig.dev.json
+C:\Users\Duc Anh\Desktop\Object-Oriented-Programming-main\SemesterTest\SemesterTest\bin\Debug\netcoreapp3.1\SemesterTest.dll
+C:\Users\Duc Anh\Desktop\Object-Oriented-Programming-main\SemesterTest\SemesterTest\bin\Debug\netcoreapp3.1\SemesterTest.pdb
+C:\Users\Duc Anh\Desktop\Object-Oriented-Programming-main\SemesterTest\SemesterTest\obj\Debug\netcoreapp3.1\SemesterTest.csproj.AssemblyReference.cache
+C:\Users\Duc Anh\Desktop\Object-Oriented-Programming-main\SemesterTest\SemesterTest\obj\Debug\netcoreapp3.1\SemesterTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duc Anh\Desktop\Object-Oriented-Programming-main\SemesterTest\SemesterTest\obj\Debug\netcoreapp3.1\SemesterTest.AssemblyInfoInputs.cache
+C:\Users\Duc Anh\Desktop\Object-Oriented-Programming-main\SemesterTest\SemesterTest\obj\Debug\netcoreapp3.1\SemesterTest.AssemblyInfo.cs
+C:\Users\Duc Anh\Desktop\Object-Oriented-Programming-main\SemesterTest\SemesterTest\obj\Debug\netcoreapp3.1\SemesterTest.csproj.CoreCompileInputs.cache
+C:\Users\Duc Anh\Desktop\Object-Oriented-Programming-main\SemesterTest\SemesterTest\obj\Debug\netcoreapp3.1\SemesterTest.dll
+C:\Users\Duc Anh\Desktop\Object-Oriented-Programming-main\SemesterTest\SemesterTest\obj\Debug\netcoreapp3.1\SemesterTest.pdb
+C:\Users\Duc Anh\Desktop\Object-Oriented-Programming-main\SemesterTest\SemesterTest\obj\Debug\netcoreapp3.1\SemesterTest.genruntimeconfig.cache

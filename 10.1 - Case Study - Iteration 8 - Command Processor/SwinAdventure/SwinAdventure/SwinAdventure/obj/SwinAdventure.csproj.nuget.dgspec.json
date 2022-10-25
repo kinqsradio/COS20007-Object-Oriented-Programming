@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anhdang/Documents/#University/OOP/9.1 - Case Study - Iteration 7 - Paths/SwinAdventure/SwinAdventure/SwinAdventure/SwinAdventure.csproj": {}
+    "/Users/anhdang/Documents/#University/OOP/10.1 - Case Study - Iteration 8 - Command Processor/SwinAdventure/SwinAdventure/SwinAdventure/SwinAdventure.csproj": {}
   },
   "projects": {
-    "/Users/anhdang/Documents/#University/OOP/9.1 - Case Study - Iteration 7 - Paths/SwinAdventure/SwinAdventure/SwinAdventure/SwinAdventure.csproj": {
+    "/Users/anhdang/Documents/#University/OOP/10.1 - Case Study - Iteration 8 - Command Processor/SwinAdventure/SwinAdventure/SwinAdventure/SwinAdventure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anhdang/Documents/#University/OOP/9.1 - Case Study - Iteration 7 - Paths/SwinAdventure/SwinAdventure/SwinAdventure/SwinAdventure.csproj",
+        "projectUniqueName": "/Users/anhdang/Documents/#University/OOP/10.1 - Case Study - Iteration 8 - Command Processor/SwinAdventure/SwinAdventure/SwinAdventure/SwinAdventure.csproj",
         "projectName": "SwinAdventure",
-        "projectPath": "/Users/anhdang/Documents/#University/OOP/9.1 - Case Study - Iteration 7 - Paths/SwinAdventure/SwinAdventure/SwinAdventure/SwinAdventure.csproj",
+        "projectPath": "/Users/anhdang/Documents/#University/OOP/10.1 - Case Study - Iteration 8 - Command Processor/SwinAdventure/SwinAdventure/SwinAdventure/SwinAdventure.csproj",
         "packagesPath": "/Users/anhdang/.nuget/packages/",
-        "outputPath": "/Users/anhdang/Documents/#University/OOP/9.1 - Case Study - Iteration 7 - Paths/SwinAdventure/SwinAdventure/SwinAdventure/obj/",
+        "outputPath": "/Users/anhdang/Documents/#University/OOP/10.1 - Case Study - Iteration 8 - Command Processor/SwinAdventure/SwinAdventure/SwinAdventure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/anhdang/.nuget/NuGet/NuGet.Config"

@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{E425CE83-54DF-4EBD-B669-FE8FD6E4D987}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdventure/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdventure/LookCommand.cs">
     <Files>
       <File FileName="SwinAdventure/GameObject.cs" Line="10" Column="11" />
       <File FileName="SwinAdventure/Location.cs" Line="100" Column="117" />
@@ -22,9 +22,7 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SwinAdventure" expanded="True">
-            <Node name="SwinAdventure" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="SwinAdventure" expanded="True" />
             <Node name="Test" expanded="True" />
           </Node>
         </State>
@@ -39,9 +37,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.SwinAdventure PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

@@ -1,9 +1,11 @@
 ﻿<Properties StartupConfiguration="{926C061D-3E31-4FF1-8BAE-A92D68495712}|Default">
-  <MonoDevelop.Ide.ItemProperties.IdentifiableObject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="IdentifiableObjectTest/IdentifiableObjectTest.cs">
     <Files>
       <File FileName="IdentifiableObject/Program.cs" Line="10" Column="10" />
-      <File FileName="IdentifiableObjectTest/IdentifiableObjectTest.cs" Line="58" Column="49" />
+      <File FileName="IdentifiableObjectTest/IdentifiableObjectTest.cs" Line="58" Column="10" />
       <File FileName="IdentifiableObject/IdentifiableObject.cs" Line="15" Column="10" />
     </Files>
     <Pads>
@@ -22,21 +24,13 @@
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="IdentifiableObject" expanded="True">
-            <Node name="IdentifiableObjectTest" expanded="True">
-              <Node name="IdentifiableObject" expanded="True">
-                <Node name="IdentifiableObjectTest" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
+          <Node name="IdentifiableObject" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.IdentifiableObject PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

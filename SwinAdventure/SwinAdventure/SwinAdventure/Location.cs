@@ -97,11 +97,11 @@ namespace SwinAdventure
         {
             get
 			{
-                return $"Room Description: {base.FullDesciption}\n\nItems at this location:\n{ItemList} {PathList}\n";
+                return $"You are at: {base.ShortDescription}\n\nItems at this location:\n{ItemList} {PathList}\n";
 				//return base.FullDesciption + "\n" + ItemList + PathList;
 
 			}
-		}
+		}  
 
         public Inventory Inventory
         {

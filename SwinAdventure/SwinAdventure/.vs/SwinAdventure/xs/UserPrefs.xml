@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{E425CE83-54DF-4EBD-B669-FE8FD6E4D987}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdventure/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdventure/Location.cs">
     <Files>
       <File FileName="SwinAdventure/GameObject.cs" Line="10" Column="11" />
-      <File FileName="SwinAdventure/Location.cs" Line="100" Column="117" />
+      <File FileName="SwinAdventure/Location.cs" Line="104" Column="6" />
       <File FileName="Test/LocationTest.cs" Line="1" Column="1" />
       <File FileName="SwinAdventure/Bag.cs" Line="1" Column="1" />
       <File FileName="SwinAdventure/Command.cs" Line="1" Column="1" />
@@ -10,7 +10,7 @@
       <File FileName="SwinAdventure/IHaveInventory.cs" Line="14" Column="6" />
       <File FileName="SwinAdventure/Inventory.cs" Line="82" Column="4" />
       <File FileName="SwinAdventure/Item.cs" Line="1" Column="1" />
-      <File FileName="SwinAdventure/LookCommand.cs" Line="48" Column="51" />
+      <File FileName="SwinAdventure/LookCommand.cs" Line="42" Column="25" />
       <File FileName="SwinAdventure/Move.cs" Line="40" Column="53" />
       <File FileName="SwinAdventure/Path.cs" Line="40" Column="1" />
       <File FileName="SwinAdventure/Program.cs" Line="64" Column="1" />
@@ -22,10 +22,7 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SwinAdventure" expanded="True">
-            <Node name="SwinAdventure" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-            <Node name="Test" expanded="True" />
+            <Node name="SwinAdventure" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -39,9 +36,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.SwinAdventure PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
