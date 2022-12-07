@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{2173B423-9B8F-4BAB-8270-EC42FEEDE88C}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/anhdang/Documents/#University/OOP/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/Games/TicTacToe/GameElements.cs" relfile="DiscordMultiBot/Games/TicTacToe/GameElements.cs" line="78" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DiscordMultiBot PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DiscordMultiBot/Bot.cs">
+    <Files>
+      <File FileName="DiscordMultiBot/Games/TicTacToe/AI.cs" Line="1" Column="1" />
+      <File FileName="DiscordMultiBot/Games/TicTacToe/AILogic.cs" Line="1" Column="1" />
+      <File FileName="DiscordMultiBot/Games/TicTacToe/Field.cs" Line="1" Column="1" />
+      <File FileName="DiscordMultiBot/Games/TicTacToe/GameElements.cs" Line="78" Column="28" />
+      <File FileName="DiscordMultiBot/Games/TicTacToe/GameEmoji.cs" Line="13" Column="1" />
+      <File FileName="DiscordMultiBot/Games/TicTacToe/Grid.cs" Line="14" Column="1" />
+      <File FileName="DiscordMultiBot/Games/TicTacToe/MultiplayerGame.cs" Line="93" Column="37" />
+      <File FileName="DiscordMultiBot/Games/TicTacToe/Player.cs" Line="1" Column="1" />
+      <File FileName="DiscordMultiBot/Games/TicTacToe/SingleplayerGame.cs" Line="16" Column="34" />
+      <File FileName="DiscordMultiBot/cmd/cmdTicTacToe.cs" Line="39" Column="41" />
+      <File FileName="DiscordMultiBot/Bot.cs" Line="18" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DiscordMultiBot" expanded="True">
+            <Node name="DiscordMultiBot" expanded="True">
+              <Node name="cmd" expanded="True" />
+              <Node name="Games" expanded="True">
+                <Node name="TicTacToe" expanded="True" />
+              </Node>
+              <Node name="Maths" expanded="True" />
+              <Node name="ytAPI" expanded="True" />
+              <Node name="Bot.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,13 +1,13 @@
 ﻿<Properties StartupConfiguration="{93706491-CF4D-4F30-8609-7F3681DA7419}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.SemesterTest PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="SemesterTest/Program.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SemesterTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SemesterTest/DataAnalyser.cs">
     <Files>
-      <File FileName="SemesterTest/Program.cs" Line="21" Column="36" />
-      <File FileName="SemesterTest/DataAnalyser.cs" Line="18" Column="4" />
+      <File FileName="SemesterTest/Program.cs" Line="27" Column="42" />
+      <File FileName="SemesterTest/DataAnalyser.cs" Line="52" Column="26" />
       <File FileName="SemesterTest/SummaryStrategy.cs" Line="10" Column="3" />
       <File FileName="SemesterTest/AverageSummary.cs" Line="28" Column="3" />
       <File FileName="SemesterTest/MinMaxSummary.cs" Line="27" Column="27" />
@@ -17,7 +17,7 @@
         <State name="__root__">
           <Node name="SemesterTest" expanded="True">
             <Node name="SemesterTest" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="DataAnalyser.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -27,6 +27,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
